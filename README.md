@@ -2,9 +2,9 @@
 [GitHub followers](https://img.shields.io/github/followers/yashagarwal1999?style=social)
 
 <p>
- 
+ <em>
     I am a Computer Engineering student currently in my final year. I like to build products that will help make people's life simpler.
-  
+ </em>
   </p>
 
 
@@ -58,14 +58,11 @@
   </a>
   </p>
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 I’m currently working as a Software Developer Intern at NICE Systems(https://www.nice.com/)
+- 👨‍💻I have designed entire Library Management And Book Grant System for Indian Institute Of Space Science And Technology(IIST)
+- 🧑‍💻I like to solve real life problems and design competitive coding questions for platforms like HackerEarth and Interview Mocha
+- ⚡ I’m looking to collaborate with people with people who share similar gist for designing scalable applications
+<!-- - 💬 Ask me about ...- 📫 How to reach me: ...- 😄 Pronouns: ... - ⚡ Fun fact: ... -->
 -->
