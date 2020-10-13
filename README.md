@@ -7,10 +7,10 @@
  </em>
   </p>
 
-<p>
- <img height="60" align="center" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+<p align="center">
+ <img height="300" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
  </p>
-### Worked With
+## Worked With
 <!--NodeJS-->
 <p>
 <code><img height="40" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
