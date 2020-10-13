@@ -3,11 +3,13 @@
 
 <p>
  <em>
-    I am a Computer Engineering student currently in my final year. I like to build products that will help make people's life simpler.
+    I am a Computer Engineering student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack to build products that will help make people's life simpler. 
  </em>
   </p>
 
-
+<p>
+ <img height="60" align="center" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+ </p>
 ### Worked With
 <!--NodeJS-->
 <p>
