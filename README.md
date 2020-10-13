@@ -10,7 +10,8 @@
 
 ### Worked With
 <!--NodeJS-->
-<code><img height="40" src="	https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
+<p>
+<code><img height="40" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
 <!--Express-->
 <code><img height="40" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /></code>
 <!--React-->
@@ -45,7 +46,7 @@
 <code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></code>
 <!--MongoDB-->
 <code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
-
+</p>
 
 
 ### GitHub Stats
