@@ -12,9 +12,9 @@
 
 - 👨‍🎓 I am currently a final year student at <a href="https://pict.edu/">Pune Institute Of Computer Technology</a>
 - 💻 I’m currently working as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
-- 👨‍💻I have designed entire Library Management And Book Grant System for <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
-- 👨‍💻I like to solve real life problems and design competitive coding questions for platforms like HackerEarth and Interview Mocha
-- ⚡ I’m looking to collaborate  with people who share similar gist for developing scalable applications.
+- 👨‍💻I have designed entire Library Management And Book Grant System for <br> <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
+- 👨‍💻I like to solve real life problems and design competitive coding <br>questions for platforms like HackerEarth and Interview Mocha
+- ⚡ I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
 - 😄 I actively conduct coding seminars and workshops in my college.
 
  <img height="300" width="300" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
