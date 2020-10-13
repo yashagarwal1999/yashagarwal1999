@@ -8,7 +8,7 @@
   </p>
   
   <img height="350" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
-***About Me:***
+<b>About Me:</b>
 
 - 👨‍🎓 I am currently a final year student at <a href="https://pict.edu/">Pune Institute Of Computer Technology</a>
 - 💻 I’m currently working as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
