@@ -1,4 +1,4 @@
-## Hi there, I'm Yash<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+## Hi there, 🙋‍♂️ I'm Yash<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 ## GitHub followers <img src="https://img.shields.io/github/followers/yashagarwal1999?style=social" />
 
 <p>
@@ -8,17 +8,17 @@
   </p>
   
   <img height="400" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
-**About Me:**
+***About Me:***
 
 - 👨‍🎓 I am currently a final year student at <a href="https://pict.edu/">Pune Institute Of Computer Technology</a>
 - 💻 I’m currently working as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
-- 👨‍💻I have designed entire Library Management And Book Grant System for <br> <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
+- 💼 I have designed entire Library Management And Book Grant System for <br> <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
 - 👨‍💻I like to solve real life problems and design competitive coding <br>questions for platforms like HackerEarth and Interview Mocha
+- 👨‍💻 I am a Full Stack Web Developer, Mobile App developer and a Deep Learning enthusiast.
 - ⚡ I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
 - 😄 I actively conduct coding seminars and workshops in my college.
 
  
-
  <br><br>
 ## Worked With
 
