@@ -2,9 +2,9 @@
 [GitHub followers](https://img.shields.io/github/followers/yashagarwal1999?style=social)
 
 <p>
-  <em>
+ 
     I am a Computer Engineering student currently in my final year. I like to build products that will help make people's life simpler.
-  </em>
+  
   </p>
 
 
@@ -22,6 +22,8 @@
 <code><img height="40" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 <!--Java-->
 <code><img height="40" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /></code>
+<!--C-->
+<code><img height="40" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /></code>
 <!--Flutter-->
 <code><img height="40" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /></code>
 <!--Android-->
@@ -35,7 +37,7 @@
 <!--CSS-->
 <code><img height="40" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></code>
 <!--JS-->
-<code><img height="40" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" /></code>
+<code><img height="40" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
 <!--Bootstrap-->
 <code><img height="40" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></code>
 <!--Material Ui-->
