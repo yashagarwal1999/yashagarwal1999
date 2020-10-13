@@ -71,9 +71,9 @@
   </a>
   </p>
   
-<!-- ### Top Languages: 
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=yashagarwal1999&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400" align="center">
--->
+ ### Top Languages: 
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=yashagarwal1999&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400" align="center" />
+
 
 ### Follow Me:
 <p>
