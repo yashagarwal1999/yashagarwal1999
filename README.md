@@ -6,10 +6,19 @@
     I am a Computer Engineering student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack to build products that will help make people's life simpler. 
  </em>
   </p>
+  
+  
+**About Me:**
 
-<p align="center">
- <img height="300" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
- </p>
+- 👨‍🎓 I am currently a final year student at <a href="https://pict.edu/">Pune Institute Of Computer Technology</a>
+- 💻 I’m currently working as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
+- 👨‍💻I have designed entire Library Management And Book Grant System for <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
+- 👨‍💻I like to solve real life problems and design competitive coding questions for platforms like HackerEarth and Interview Mocha
+- ⚡ I’m looking to collaborate  with people who share similar gist for developing scalable applications.
+- 😄 I actively conduct coding seminars and workshops in my college.
+
+ <img height="300" width="300" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+
  
 ## Worked With
 
@@ -62,11 +71,6 @@
   </a>
   </p>
 
-About Me:
 
-- 💻 I’m currently working as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
-- 👨‍💻I have designed entire Library Management And Book Grant System for <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
-- 👨‍💻I like to solve real life problems and design competitive coding questions for platforms like HackerEarth and Interview Mocha
-- ⚡ I’m looking to collaborate  with people who share similar gist for developing scalable applications
 <!-- - 💬 Ask me about ...- 📫 How to reach me: ...- 😄 Pronouns: ... - ⚡ Fun fact: ... -->
 <!-- -->
