@@ -62,7 +62,7 @@ About Me:
 
 - 💻 I’m currently working as a Software Developer Intern at NICE Systems(https://www.nice.com/)
 - 👨‍💻I have designed entire Library Management And Book Grant System for Indian Institute Of Space Science And Technology(IIST)
-- 🧑‍💻I like to solve real life problems and design competitive coding questions for platforms like HackerEarth and Interview Mocha
-- ⚡ I’m looking to collaborate with people with people who share similar gist for designing scalable applications
+- 👨‍💻I like to solve real life problems and design competitive coding questions for platforms like HackerEarth and Interview Mocha
+- ⚡ I’m looking to collaborate  with people who share similar gist for designing scalable applications
 <!-- - 💬 Ask me about ...- 📫 How to reach me: ...- 😄 Pronouns: ... - ⚡ Fun fact: ... -->
 -->
