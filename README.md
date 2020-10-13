@@ -77,7 +77,7 @@
 
 ### Follow Me:
 <p>
-<a href="https://www.linkedin.com/in/yash-agarwal-b35ba076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/humorously_funny/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/yash-agarwal-b35ba076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/humorously_funny/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; &nbsp;  <a href="https://www.codechef.com/users/bat_mobile"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codechef.svg" /></a> &nbsp; &nbsp; &nbsp;  <a href="https://www.hackerrank.com/agarvalyash12"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" /></a> 
  </p>
 
 
