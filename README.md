@@ -1,4 +1,4 @@
-## Hi there, 🙋‍♂️ I'm Yash<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+## Hi there, 🙋‍♂️ I'm Yash!
 ## GitHub followers <img src="https://img.shields.io/github/followers/yashagarwal1999?style=social" />
 
 <p>
@@ -70,6 +70,18 @@
     <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=yashagarwal1999&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true"/>
   </a>
   </p>
+  
+<!-- ### Top Languages: 
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=yashagarwal1999&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400" align="center">
+-->
+
+### Follow Me:
+<p>
+<a href="https://www.linkedin.com/in/yash-agarwal-b35ba076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/humorously_funny/"><img src="	https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; &nbsp;
+ </p>
+
+
+ 
 
 
 <!-- - 💬 Ask me about ...- 📫 How to reach me: ...- 😄 Pronouns: ... - ⚡ Fun fact: ... -->
