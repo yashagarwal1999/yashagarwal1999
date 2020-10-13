@@ -1,5 +1,5 @@
 ## Hi there, I'm Yash<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
-[GitHub followers](https://img.shields.io/github/followers/yashagarwal1999?style=social)
+[GitHub followers]<img src="https://img.shields.io/github/followers/yashagarwal1999?style=social" />
 
 <p>
  <em>
