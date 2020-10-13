@@ -7,7 +7,7 @@
  </em>
   </p>
   
-  <img height="300" width="300" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+  <img height="450" width="350" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 **About Me:**
 
 - 👨‍🎓 I am currently a final year student at <a href="https://pict.edu/">Pune Institute Of Computer Technology</a>
