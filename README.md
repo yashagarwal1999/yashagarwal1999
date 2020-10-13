@@ -10,9 +10,11 @@
 <p align="center">
  <img height="300" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
  </p>
+ 
 ## Worked With
-<!--NodeJS-->
+
 <p>
+<!--NodeJS-->
 <code><img height="40" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></code>
 <!--Express-->
 <code><img height="40" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /></code>
@@ -62,9 +64,9 @@
 
 About Me:
 
-- 💻 I’m currently working as a Software Developer Intern at NICE Systems(https://www.nice.com/)
-- 👨‍💻I have designed entire Library Management And Book Grant System for Indian Institute Of Space Science And Technology(IIST)
+- 💻 I’m currently working as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
+- 👨‍💻I have designed entire Library Management And Book Grant System for <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
 - 👨‍💻I like to solve real life problems and design competitive coding questions for platforms like HackerEarth and Interview Mocha
-- ⚡ I’m looking to collaborate  with people who share similar gist for designing scalable applications
+- ⚡ I’m looking to collaborate  with people who share similar gist for developing scalable applications
 <!-- - 💬 Ask me about ...- 📫 How to reach me: ...- 😄 Pronouns: ... - ⚡ Fun fact: ... -->
--->
+<!-- -->
