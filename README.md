@@ -14,8 +14,8 @@
 - 👨‍🎓 I have completed my BE from <a href="https://www.pict.edu/">Pune Institute Of  Computer  Technology</a> with a CGPA of 9.63/10.
 - 💻 I have worked as a Spring Technology Analyst Intern at <a href="https://www.morganstanley.com/">Morgan Stanley</a> and as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
 - 💼 I have designed entire Library Management And Book Grant System for <br> <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
-- 👨‍💻 I like to develop applications that solev real life problems. 
-- 👨‍💻 I have designed competitive coding <br>questions for platforms like HackerEarth and Interview Mocha
+- 👨‍💻 I like to develop applications that solve real life problems. 
+- 👨‍💻 I have designed competitive coding <br>questions for platforms like HackerEarth and Interview Mocha.
 - 👨‍💻 I am a Full Stack Web Developer and Mobile App developer.
 - ⚡  I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
 - 😄 I actively conduct coding seminars and workshops in my college.
