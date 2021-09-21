@@ -3,19 +3,21 @@
 
 <p>
  <em>
-    I am a Computer Engineering student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack to build products that will help make people's life simpler. 
+    I am a Computer Science student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> with a knack to build products that will help make people's life simpler. 
  </em>
   </p>
   
   <img height="350" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 <b>About Me:</b>
 
-- 👨‍🎓 I am currently a final year student at <a href="https://pict.edu/">Pune Institute Of Computer Technology</a>
-- 💻 I’m currently working as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
+- 👨‍🎓 I am currently a MS CS student at <a href="https://www.columbia.edu/">Columbia University </a>
+- 👨‍🎓 I have completed my BE from <a href="https://www.pict.edu/">Pune Institute Of  Computer  Technology</a> with a CGPA of 9.63/10.
+- 💻 I have worked as a Spring Technology Analyst Intern at <a href="https://www.morganstanley.com/">Morgan Stanley</a> and as a Software Developer Intern at <a href="https://www.nice.com/">NICE Systems</a>
 - 💼 I have designed entire Library Management And Book Grant System for <br> <a href="https://www.iist.ac.in/">Indian Institute Of Space Science And Technology(IIST)</a>
-- 👨‍💻I like to solve real life problems and design competitive coding <br>questions for platforms like HackerEarth and Interview Mocha
-- 👨‍💻 I am a Full Stack Web Developer, Mobile App developer and a Deep Learning enthusiast.
-- ⚡ I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
+- 👨‍💻 I like to develop applications that solev real life problems. 
+- 👨‍💻 I have designed competitive coding <br>questions for platforms like HackerEarth and Interview Mocha
+- 👨‍💻 I am a Full Stack Web Developer and Mobile App developer.
+- ⚡  I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
 - 😄 I actively conduct coding seminars and workshops in my college.
 
  
